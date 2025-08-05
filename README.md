@@ -26,7 +26,6 @@ Compatível com Windows 10 e 11
 
 ▶️ Como usar
 Execute o arquivo .bat com dois cliques ou via terminal (como administrador).
-
 Escolha a opção desejada no menu interativo.
 O script executará automaticamente os procedimentos selecionados.
 
